@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <Layout style={{height:"100vh",width:'100vw'}} >
         <Sider>
-          <Image height={'10'} width={'100%'} style={{objectFit:'cover'}} src='https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=600' />
+          <Image height={'10'} width={'100%'} style={{objectFit:'cover'}} src='https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=800' />
           <Sidebar/>
         </Sider>
         <Layout>
